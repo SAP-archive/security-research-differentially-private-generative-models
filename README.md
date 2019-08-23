@@ -64,7 +64,7 @@ please cite:
 
 ## References
 - [1] Lorenzo Frigerio, Anderson Santana de Oliveira, Laurent Gomez, Patrick Duverger:
-Differentially Private Generative Adversarial Networks for Time Series, Continuous, and Discrete Open Data. CoRR abs/1901.02477 (2019). https://arxiv.org/abs/1901.02477.
+Differentially Private Generative Adversarial Networks for Time Series, Continuous, and Discrete Open Data. CoRR abs/1901.02477 (2019). https://arxiv.org/abs/1901.02477
 
 
 ## License
