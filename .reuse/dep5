@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: security-research-differentially-private-generative-models
+Upstream-Contact: Anderson Santana de Oliveira <anderson.santana.de.oliveira@sap.com>
+Source: https://github.com/SAP-samples/security-research-differentially-private-generative-models
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
