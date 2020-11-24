@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2020 SAP SE
+#
+# SPDX-License-Identifier: Apache-2.0
+
 # From https://github.com/openai/improved-gan/blob/master/inception_score/model.py
 # Code derived from tensorflow/tensorflow/models/image/imagenet/classify_image.py
 from __future__ import absolute_import

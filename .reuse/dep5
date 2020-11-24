@@ -8,3 +8,7 @@ Source: https://github.com/SAP-samples/security-research-differentially-private-
 # Files: src/*
 # Copyright: $YEAR $NAME <$CONTACT>
 # License: ...
+
+Files: * 
+Copyright: 2020 SAP SE or an SAP affiliate company and sap-devtoberfest-2020 contributors
+License: Apache-2.0
