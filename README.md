@@ -6,6 +6,8 @@ SPDX-License-Identifier: Apache-2.0
 
 # Differentially Private Generative Models
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/security-research-differentially-private-generative-models)](https://api.reuse.software/info/github.com/SAP-samples/security-research-differentially-private-generative-models)
+
 ## Description:
 This repository explains how generative models can be used in combination with differential privacy to synthetize feature-rich realistic categorical datasets in a privacy preserving manner. It brings two jupyter notebooks for dp-GANs (differentially-private Generative Adversarial Networks) and dp-VAE (Variational Autoencoder) to generate new data in a differetnial private mode. The code allows to quickly generate new dataset (incl. numerical features) in private or public mode. dp_SGD and dp_Adam optimizers from tensowflow/ privacy library (https://github.com/tensorflow/privacy) are used these models. 
 
@@ -74,5 +76,5 @@ Differentially Private Generative Adversarial Networks for Time Series, Continuo
 
 
 ## License
-
-This project is licensed under SAP Sample Code License Agreement except as noted otherwise in the [LICENSE file](LICENSE).
+Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved.
+This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
