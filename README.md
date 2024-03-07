@@ -4,6 +4,11 @@ SPDX-FileCopyrightText: 2020 SAP SE
 SPDX-License-Identifier: Apache-2.0
 -->
 
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+# Important Notice
+This public repository is read-only and no longer maintained. For the latest sample code repositories, visit the [SAP Samples](https://github.com/SAP-samples) organization.
+
 # Differentially Private Generative Models
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/security-research-differentially-private-generative-models)](https://api.reuse.software/info/github.com/SAP-samples/security-research-differentially-private-generative-models)
